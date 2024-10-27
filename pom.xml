@@ -11,7 +11,7 @@
 	<groupId>nit</groupId>
 	<artifactId>BootMVCProj09-MiniProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>BootMVCProj09-MiniProject</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
